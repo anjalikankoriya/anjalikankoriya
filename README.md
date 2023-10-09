@@ -1,4 +1,4 @@
-![log](https://images.app.goo.gl/kQJotfrYYDRNJeut5)
+![logo](https://github.com/anjalikankoriya/anjalikankoriya/blob/main/CDG_blog_post_image_02-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Anjali kankoriya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
