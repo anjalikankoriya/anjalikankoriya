@@ -18,12 +18,12 @@
 &nbsp;
 
 <h2>Tools and Technologies</h2>
-<h5> Jupyter <img src = "https://github.com/user-attachments/assets/8f5875bc-7220-4cda-89a7-7b67802722b8"/></h5>
-<h5> PostgreSQL </h5>
-<h5> Microsoft Excel </h5>
-<h5> Power BI </h5>
-<h5> VS Code </h5>
-<h5> Anaconda </h5>
+<img src = "https://github.com/user-attachments/assets/8f5875bc-7220-4cda-89a7-7b67802722b8"/>
+<img src = "https://github.com/user-attachments/assets/8748955b-7a6c-43f8-bfaf-5d2413e8ea07"/>
+<img src="https://github.com/user-attachments/assets/43035551-fc0d-42d0-b388-52855c6906cc"/>
+<img src="https://github.com/user-attachments/assets/6fcd7e99-fa36-481f-9e81-a24e934e7c91"/>
+<img src="https://github.com/user-attachments/assets/cfffcf56-7a29-4d2e-8774-32d337037aa8"/>
+<img src="https://github.com/user-attachments/assets/1498caa5-3ae2-4e09-8fb9-455e0882bb40"/>
 
 <h3 align="left">Connect with me:</h3>
 
