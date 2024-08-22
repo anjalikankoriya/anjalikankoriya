@@ -17,7 +17,14 @@
 &nbsp;
 <p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" /></p>
 &nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalikankoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anjalikankoriya" /> </p>
+
+<h2>Tools and Technologies</h2>
+* Jupyter: Utilized for interactive data analysis and notebook-based coding.
+* PostgreSQL: Used for database management and complex query execution.
+* Microsoft Excel: Applied for data manipulation and analysis.
+* Power BI: Leveraged for data visualization and creating interactive reports.
+* VS Code: Employed as the primary code editor for development.
+* Anaconda: Managed Python environments and packages for data science projects.
 
 - 🌱 I’m currently learning **SQL, Power BI**
 
