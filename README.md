@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anjali kankoriya</h1>
-<h4 align="center">Transforming Data into Excellence: Skilled Software Engineer & Data Analyst</h4>
+<h3 align="center">Transforming Data into Excellence: Skilled Software Engineer & Data Analyst</h3>
+🚀 Innovative Tech Enthusiast with a strong expertise in data analytics and software engineering. I specialize in transforming complex challenges into sophisticated solutions through cutting-edge technologies. Fueled by a passion for continuous learning and collaboration, I am dedicated to driving impactful innovations. Let’s create something extraordinary together!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" /></p>
 
