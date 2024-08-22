@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg (https://img.freepik.com/premium-vector/linkedin-round-logo-vector_667864-108.jpg?w=740)' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/anjali-kankoriya/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg]  (https://img.freepik.com/premium-vector/linkedin-round-logo-vector_667864-108.jpg?w=740)' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/anjali-kankoriya/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg (https://img.freepik.com/free-vector/open-email-envelope_1020-530.jpg?ga=GA1.1.2008071927.1723546530&semt=ais_hybrid)] (https://img.freepik.com/premium-vector/google-play-google-maps-google-drive-logo_1175259-315.jpg?w=740)' alt='gmail' height='40'>](anjalikankoriya@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg]  (https://img.freepik.com/free-vector/open-email-envelope_1020-530.jpg?ga=GA1.1.2008071927.1723546530&semt=ais_hybrid)] (https://img.freepik.com/premium-vector/google-play-google-maps-google-drive-logo_1175259-315.jpg?w=740)' alt='gmail' height='40'>](anjalikankoriya@gmail.com)  
 
 
 
