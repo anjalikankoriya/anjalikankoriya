@@ -1,3 +1,6 @@
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+</p>
 
 <h1 align="center"> Hi👋, I'm Anjali kankoriya </h1>
 
@@ -30,8 +33,3 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/anjali-kankoriya/)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](anjalikankoriya@gmail.com)  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalikankoriya&show_icons=true&locale=en&layout=compact" alt="anjalikankoriya" /></p>
-
-<p>&nbsp;
