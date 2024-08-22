@@ -1,7 +1,6 @@
-![logo](https://github.com/anjalikankoriya/anjalikankoriya/blob/main/CDG_blog_post_image_02-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Anjali kankoriya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h4 align="center">Transforming Data into Excellence: Skilled Software Engineer & Data Analyst</h4>
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif ">
 
