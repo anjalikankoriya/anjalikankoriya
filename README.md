@@ -27,8 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/anjali-kankoriya/)  
-&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.freepik.com/free-vector/character-couple-holding-new-message-illustration_2921440.htm#fromView=search&page=1&position=27&uuid=f61e56dc-ba55-4cda-b560-df0f43708060)' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/anjali-kankoriya/)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](anjalikankoriya@gmail.com)  
 
