@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Anjali kankoriya</h1>
 <h4 align="center">Transforming Data into Excellence: Skilled Software Engineer & Data Analyst</h4>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" /></p>
+
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalikankoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anjalikankoriya" /> </p>
@@ -25,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalikankoriya&show_icons=true&locale=en&layout=compact" alt="anjalikankoriya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" /></p>
+<p>&nbsp;
