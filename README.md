@@ -1,7 +1,7 @@
 
 <img width="1834" alt="My Banner" src="https://github.com/user-attachments/assets/626af54c-84eb-4ea7-a0fa-d774655e99ec">
 
-<h3 align="center"> <u>Transforming Data into Excellence: Skilled Software Engineer & Data Analyst</u> </h3>
+<h2 align="center"> <u>Transforming Data into Excellence: Skilled Software Engineer & Data Analyst</u> </h2>
 
 <h4> 🚀 Innovative Tech Enthusiast with a strong expertise in data analytics and software engineering. I specialize in transforming complex challenges into sophisticated solutions through cutting-edge technologies. Fueled by a passion for continuous learning and collaboration, I am dedicated to driving impactful innovations. Let’s create something extraordinary together! </h4>
 
