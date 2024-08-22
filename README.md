@@ -14,6 +14,7 @@
 💻 HTML, CSS
 📈 Power Bi
 
+&nbsp;
 <p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" /></p>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalikankoriya&label=Profile%20views&color=0e75b6&style=flat" alt="anjalikankoriya" /> </p>
