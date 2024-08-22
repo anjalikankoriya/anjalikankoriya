@@ -1,5 +1,5 @@
 
-### Hi there 👋, Hi 👋, I'm Anjali kankoriya
+<h1 align="center" Hi👋, I'm Anjali kankoriya> </h1>
 #### Transforming Data into Excellence: Skilled Software Engineer & Data Analyst
 ![Transforming Data into Excellence: Skilled Software Engineer & Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
