@@ -14,8 +14,6 @@
 <h5> 📈 Power Bi</h5>
 <h5> 💻 HTML, CSS</h5>
 
-
-&nbsp;
 <p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" /></p>
 &nbsp;
 
