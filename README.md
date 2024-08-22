@@ -1,5 +1,5 @@
-<p align=”center”>
-<img width="200" height="200" src="https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner"></p>
+
+<img width="1834" alt="My Banner" src="https://github.com/user-attachments/assets/626af54c-84eb-4ea7-a0fa-d774655e99ec">
 
 <h1 align="center"> Hi👋, I'm Anjali kankoriya </h1>
 
