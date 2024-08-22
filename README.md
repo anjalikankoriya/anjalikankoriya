@@ -6,9 +6,13 @@
 🚀 Innovative Tech Enthusiast with a strong expertise in data analytics and software engineering. I specialize in transforming complex challenges into sophisticated solutions through cutting-edge technologies. Fueled by a passion for continuous learning and collaboration, I am dedicated to driving impactful innovations. Let’s create something extraordinary together!
 
 <h2>Skills & Experience</h2>
-![image](https://github.com/user-attachments/assets/2995fe1c-2f37-4a6f-8379-893855bc04c4)
-
-Skills: Python / Panda / Numpy / SQL / Excel / Power Bi / Java / HTML / CSS
+🐍 Python
+🐼 Pandas
+🔢 Numpy
+🗃️ SQl
+📊 Excel
+💻 HTML, CSS
+📈 Power Bi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikankoriya&show_icons=true&locale=en" alt="anjalikankoriya" />
 
