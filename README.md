@@ -18,7 +18,7 @@
 &nbsp;
 
 <h2>Tools and Technologies</h2>
-<h5> Jupyter ![image](https://github.com/user-attachments/assets/8f5875bc-7220-4cda-89a7-7b67802722b8)</h5>
+<h5> Jupyter (https://github.com/user-attachments/assets/8f5875bc-7220-4cda-89a7-7b67802722b8)</h5>
 <h5> PostgreSQL </h5>
 <h5> Microsoft Excel </h5>
 <h5> Power BI </h5>
