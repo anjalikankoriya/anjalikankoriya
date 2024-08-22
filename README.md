@@ -20,8 +20,8 @@
 <h2>Tools and Technologies</h2>
 <img src = "https://github.com/user-attachments/assets/8f5875bc-7220-4cda-89a7-7b67802722b8" width="150" height="100"/>
 <img src = "https://github.com/user-attachments/assets/8748955b-7a6c-43f8-bfaf-5d2413e8ea07" width="100" height="100"/>
-<img src="https://github.com/user-attachments/assets/43035551-fc0d-42d0-b388-52855c6906cc" width="100" height="100"/>
-<img src="https://github.com/user-attachments/assets/6fcd7e99-fa36-481f-9e81-a24e934e7c91"width="150" height="100"/>
+<img src="https://github.com/user-attachments/assets/54f8bc3c-4a3c-46e4-8e4e-fbfb70c95b1e" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/6fcd7e99-fa36-481f-9e81-a24e934e7c91"width="130" height="100"/>
 <img src="https://github.com/user-attachments/assets/cfffcf56-7a29-4d2e-8774-32d337037aa8"width="100" height="100"/>
 <img src="https://github.com/user-attachments/assets/1498caa5-3ae2-4e09-8fb9-455e0882bb40" width="100" height=100"/>
 
