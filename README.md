@@ -19,12 +19,12 @@
 &nbsp;
 
 <h2>Tools and Technologies</h2>
-* Jupyter: Utilized for interactive data analysis and notebook-based coding.
-* PostgreSQL: Used for database management and complex query execution.
-* Microsoft Excel: Applied for data manipulation and analysis.
-* Power BI: Leveraged for data visualization and creating interactive reports.
-* VS Code: Employed as the primary code editor for development.
-* Anaconda: Managed Python environments and packages for data science projects.
+* Jupyter: Utilized for interactive data analysis and notebook-based coding. &nbsp;
+* PostgreSQL: Used for database management and complex query execution. &nbsp;
+* Microsoft Excel: Applied for data manipulation and analysis. &nbsp;
+* Power BI: Leveraged for data visualization and creating interactive reports. &nbsp;
+* VS Code: Employed as the primary code editor for development. &nbsp;
+* Anaconda: Managed Python environments and packages for data science projects. &nbsp;
 
 - 🌱 I’m currently learning **SQL, Power BI**
 
